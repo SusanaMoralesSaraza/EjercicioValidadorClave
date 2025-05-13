@@ -24,3 +24,4 @@ class NoTieneCaracterEspecialError(ValidadorError):
 
 class NoTienePalabraSecretaError(ValidadorError):
     pass
+
